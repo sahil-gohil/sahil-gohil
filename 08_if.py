@@ -7,16 +7,16 @@ bangladesh = ["dhaka", "khulna", "rangpur"]
 # ii. Write a program that asks user to enter two cities and it tells you if they both are in same country or not. For example if I enter mumbai and chennai, it will print "Both cities are in India" but if I enter mumbai and dhaka it should print "They don't belong to same country"
 
 # i
-# city = input("input")
-# if city in india:
-#     print(f"{city} is in india")
-# elif city in pakistan:
-#     print(f"{city} is in pakistan")
-# elif city in bangladesh:
-#     print(f"{city} is in bangladesh")
+city = input("input")
+if city in india:
+    print(f"{city} is in india")
+elif city in pakistan:
+    print(f"{city} is in pakistan")
+elif city in bangladesh:
+    print(f"{city} is in bangladesh")
 
 
-#ii
+# ii
 # city_1 = input("enter city_1")
 # city_2 = input("enter city_2")
 
