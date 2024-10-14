@@ -54,6 +54,7 @@ heros.insert(3, 'black panther' )
 #    Do that with one line of code.
 heros[1:3]=['doctor strange']
 print(heros)
+
 # 5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 heros.sort()
 print(heros)
