@@ -22,5 +22,4 @@ my_age = current_year - my_year
 print(my_age)
 
 fname , mname , lname = "sahil " , "ajitbhai ","gohil"
-
 print(fname+mname+lname)
