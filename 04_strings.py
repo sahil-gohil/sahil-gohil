@@ -11,7 +11,6 @@ print("using + opretor",address)
 address = f'{street}\n{city}\n{country}'
 print("using f opreteor",address)
 
-
 # 2 Create a variable to store the string "Earth revolves around the sun"
 # i Print "revolves" using slice operator
 # ii Print "sun" using negative index
