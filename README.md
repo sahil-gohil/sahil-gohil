@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @sahil-gohil
-- 👀 I’m interested in comuputer science
-- 🌱 I’m currently learning data science
-- 📫 sahilgohil.code@gmail.com
+# 👋 Hi, I’m Sahil Gohil
 
-<!---
-sahil-gohil/sahil-gohil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about computer science and I'm excited to share my journey with you.
+
+## 👀 Interests
+- Computer Science
+- Data Science
+- Machine Learning
+- Software Development
+
+## 🌱 Current Learning
+I'm currently diving into the world of **Data Science**. I'm exploring various tools and techniques, including:
+- Python
+- R
+- SQL
+- Data Visualization
+
+## 📫 Get in Touch
+Feel free to reach out to me at: [sahilgohil.code@gmail.com](mailto:sahilgohil.code@gmail.com)
+
+## 🌐 Connect with Me
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+
+## 📈 Projects
+Here are some of the projects I'm working on:
+- **[Project Name 1](Link to Project)**: Brief description of the project.
+- **[Project Name 2](Link to Project)**: Brief description of the project.
+
+Thank you for visiting my profile! I’m always open to collaboration and new ideas. Let's connect!
